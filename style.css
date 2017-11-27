@@ -58,4 +58,7 @@
     .demo{
         background-color: orange;
     }
+    [class*='col-'] {
+        width: 100%;
+    }
 }
